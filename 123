@@ -1,1 +1,4 @@
-
+A = 5
+V = 5
+for A = 5 and V = 5 
+Print("БЕБЕ")
